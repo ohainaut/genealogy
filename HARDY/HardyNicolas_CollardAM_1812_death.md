@@ -1,5 +1,5 @@
 
-![HardyNicolas_CollardAM_1812_naissance.jpg](HardyNicolas_CollardAM_1812_naissance.jpg)
+[![HardyNicolas_CollardAM_1812_naissance.jpg](HardyNicolas_CollardAM_1812_naissance.jpg)](HardyNicolas_CollardAM_1812_naissance.jpg)
 
 #### 1 Naissance de Gilles Joseph Hardy
 
@@ -21,7 +21,7 @@ Déclaré de ne Savoir écrire.   Léonard Hardy
 
         -->
 
-![HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg)
+[![HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg)](HardyNicolas_CollardAM_1812_death.jpg)
 
 #### 1 Décès de Anne Marie Collard 
 

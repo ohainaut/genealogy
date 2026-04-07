@@ -1,6 +1,6 @@
 # Passeport de Jules Joseph Hardy
 
-![Recto](HardyJulesJ_passport.jpg) - [Verso](HardyJulesJ_passport_FLIP.jpg)
+[![Recto](HardyJulesJ_passport.jpg)](HardyJulesJ_passport.jpg) - [Verso](HardyJulesJ_passport_FLIP.jpg)
 
 
 AU NOM DU ROI des Belges. 

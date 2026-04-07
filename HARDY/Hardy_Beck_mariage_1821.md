@@ -22,9 +22,8 @@
 
 
 
-![Hardy_Beck_mariage_1821a.jpg](Hardy_Beck_mariage_1821a.jpg)
-
-![Hardy_Beck_mariage_1821b.jpg](Hardy_Beck_mariage_1821b.jpg)
+[![Hardy_Beck_mariage_1821a.jpg](Hardy_Beck_mariage_1821a.jpg)](Hardy_Beck_mariage_1821a.jpg)
+[![Hardy_Beck_mariage_1821b.jpg](Hardy_Beck_mariage_1821b.jpg)](Hardy_Beck_mariage_1821b.jpg)
 
 ---
 

@@ -1,4 +1,4 @@
-![HainautLeon_1824_birth.jpg](HainautLeon_1824_birth.jpg)
+[![HainautLeon_1824_birth.jpg](HainautLeon_1824_birth.jpg)](HainautLeon_1824_birth.jpg)
 
 
 ## Léon Hainaut (1824)

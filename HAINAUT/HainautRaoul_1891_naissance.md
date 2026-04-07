@@ -1,4 +1,4 @@
-![image](HainautRaoul_1891_naissance.jpg)
+[![image](HainautRaoul_1891_naissance.jpg)](HainautRaoul_1891_naissance.jpg)
 ## Birth Record Transcription: Raoul Fernand Edmond Jules Léon Hainaut (1891)
 
 ### Original French Transcription

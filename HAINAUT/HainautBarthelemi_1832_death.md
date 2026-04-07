@@ -1,4 +1,4 @@
-![HainautBarthelemi_1832_death.jpg](HainautBarthelemi_1832_death.jpg)
+[![HainautBarthelemi_1832_death.jpg](HainautBarthelemi_1832_death.jpg)](HainautBarthelemi_1832_death.jpg)
 
 ##  Barthélemi Joseph Hainaut (1832)
 

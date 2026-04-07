@@ -1,6 +1,6 @@
 
 
-![Image HardyCatherine_1842_death.jpg](HardyCatherine_1842_death.jpg)
+[![Image HardyCatherine_1842_death.jpg](HardyCatherine_1842_death.jpg)](HardyCatherine_1842_death.jpg)
 
   N° 47
   Décès de Catherine Hardy du 22 août 1842

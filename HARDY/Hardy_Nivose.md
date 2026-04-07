@@ -1,4 +1,5 @@
-![Hardy_Nivose.jpg](Hardy_Nivose.jpg)
+
+[![Hardy_Nivose.jpg](Hardy_Nivose.jpg)](Hardy_Nivose.jpg)
 
 
 ## Mariage de Jean Lambert Hardy et Marie Elisabeth Counet
@@ -36,7 +37,7 @@ demeurant audit lieu . . .
 
 ## Leonard Hardy
 
-(pas de connection conue a la famille)
+(pas de connection connue a la famille)
 
 Mairie de Nessonvaux  
 Arrondissement Communal de Liège  

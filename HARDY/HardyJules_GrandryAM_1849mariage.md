@@ -1,4 +1,4 @@
-![HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg)
+[![HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg)](HardyJules_GrandryAM_1849mariage.jpg)
 
 # 1849
 

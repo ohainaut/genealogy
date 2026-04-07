@@ -1,5 +1,5 @@
-![HainautBenoitG_1801_death_a.jpg](HainautBenoitG_1801_death_a.jpg)
-![HainautBenoitG_1801_death_b.jpg](HainautBenoitG_1801_death_b.jpg)
+[![HainautBenoitG_1801_death_a.jpg](HainautBenoitG_1801_death_a.jpg)](HainautBenoitG_1801_death_a.jpg)
+[![HainautBenoitG_1801_death_b.jpg](HainautBenoitG_1801_death_b.jpg)](HainautBenoitG_1801_death_b.jpg)
 
 
 ## Benoît Ghislain Hainaut (An IX / 1801)

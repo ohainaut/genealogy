@@ -1,5 +1,5 @@
-![HainautFernand_HardyVictoire_1887_mariage_a.jpg](HainautFernand_HardyVictoire_1887_mariage_a.jpg)
-![HainautFernand_HardyVictoire_1887_mariage_a.jpg](HainautFernand_HardyVictoire_1887_mariage_a.jpg)
+[![HainautFernand_HardyVictoire_1887_mariage_a.jpg](HainautFernand_HardyVictoire_1887_mariage_a.jpg)](HainautFernand_HardyVictoire_1887_mariage_a.jpg)
+[![HainautFernand_HardyVictoire_1887_mariage_a.jpg](HainautFernand_HardyVictoire_1887_mariage_a.jpg)](HainautFernand_HardyVictoire_1887_mariage_a.jpg)
 
 
 **Ville de Mons — État Civil**

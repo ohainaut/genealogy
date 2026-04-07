@@ -28,7 +28,7 @@
 | Gaspard       | 1753 | Catherine Daneaux | 1822 | |
 | Jean Baptiste |      |                   | ~1755 ||
 |Jeanne-Thérese | 1754 |                   | 1808 | | 
-|[**Hainaut, Benoit Ghislain**](https://www.familysearch.org/en/tree/person/details/L5K8-FF6) | [1754*](HainautBenoitG_1754_naissance.md) | 1781 [M.A.Genevieve Dacier](https://www.familysearch.org/en/tree/person/details/L58C-2SL) | [1801*](HainautBenoitG_1801_death.md) ||
+|[**Hainaut, Benoit Ghislain**](https://www.familysearch.org/en/tree/person/details/L5K8-FF6) | 1754 | 1781 [M.A.Genevieve Dacier](https://www.familysearch.org/en/tree/person/details/L58C-2SL) | [1801*](HainautBenoitG_1801_death.md) ||
 | Rosalie       | 1789 | Philippe Viseur   |  | | 
 |  |  |  |  |  | 
 |_Enfants de Benoit Ghislain et Genevieve:_  ||  |  |  | 

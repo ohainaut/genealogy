@@ -1,12 +1,11 @@
-
-![Document HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg)
+[![Document HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg)](HardyGillesJoseph_1832_death.jpg)
 
 # 1832
 
-    N° 21
-    Décès de
-    Gilles Joseph Hardy
-    18 août 1832
+N° 21  
+Décès de  
+Gilles Joseph Hardy  
+18 août 1832
 
 L’an mille huit cent trente deux d’août le dix-huit à onze heures du matin au Cabinet de l’Etat civil de la
 commune de Nessonvaux District de Verviers Pr de Liège; Sont comparus devant Nous Nicolas Joseph Degotte,

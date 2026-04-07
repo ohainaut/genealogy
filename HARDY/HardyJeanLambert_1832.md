@@ -1,5 +1,5 @@
 
-![image HardyJeanLambert_1832_death.jpg](HardyJeanLambert_1832_death.jpg)
+[![image HardyJeanLambert_1832_death.jpg](HardyJeanLambert_1832_death.jpg)](HardyJeanLambert_1832_death.jpg)
 
 N° 33
     Décès de Jean Lambert Hardy
@@ -20,7 +20,7 @@ signé avec Nous. f. g. absil        H J Piette
 
 
 
-![image HardyJeanLambert_1832.jpg](HardyJeanLambert_1832.jpg)
+[![image HardyJeanLambert_1832.jpg](HardyJeanLambert_1832.jpg)](HardyJeanLambert_1832.jpg)
 
     Royaume de Belgique
     Arrondissement & Province de Liège

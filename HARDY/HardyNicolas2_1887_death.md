@@ -1,4 +1,4 @@
-![image HardyNicolas2_1887_death.jpg](HardyNicolas2_1887_death.jpg)]
+[![image HardyNicolas2_1887_death.jpg](HardyNicolas2_1887_death.jpg)](HardyNicolas2_1887_death.jpg)
 
 
 

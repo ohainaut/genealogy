@@ -1,4 +1,5 @@
-![HainautPhilippeJ_1802_death.jpg](HainautPhilippeJ_1802_death.jpg)
+
+[![HainautPhilippeJ_1802_death.jpg](HainautPhilippeJ_1802_death.jpg)](HainautPhilippeJ_1802_death.jpg)
 
 
 ## Philippes Joseph Hainaut (An X / 1802)

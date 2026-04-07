@@ -1,5 +1,5 @@
-![HainautLeon_MaryTherese_1855_mariage_a.jpg](HainautLeon_MaryTherese_1855_mariage_a.jpg)
-![HainautLeon_MaryTherese_1855_mariage_b.jpg](HainautLeon_MaryTherese_1855_mariage_b.jpg)
+[![HainautLeon_MaryTherese_1855_mariage_a.jpg](HainautLeon_MaryTherese_1855_mariage_a.jpg)](HainautLeon_MaryTherese_1855_mariage_a.jpg)
+[![HainautLeon_MaryTherese_1855_mariage_b.jpg](HainautLeon_MaryTherese_1855_mariage_b.jpg)](HainautLeon_MaryTherese_1855_mariage_b.jpg)
 
 
 ## Léon Hainaut & Anne Thérèse Alexandrine Mary (1855)

@@ -1,5 +1,5 @@
-![HainautBarthelemi_PoivreLousise_1812_marriage_a.jpg](HainautBarthelemi_PoivreLousise_1812_marriage_a.jpg)
-![HainautBarthelemi_PoivreLousise_1812_marriage_b.jpg](HainautBarthelemi_PoivreLousise_1812_marriage_b.jpg)
+[![HainautBarthelemi_PoivreLousise_1812_marriage_a.jpg](HainautBarthelemi_PoivreLousise_1812_marriage_a.jpg)](HainautBarthelemi_PoivreLousise_1812_marriage_a.jpg)
+[![HainautBarthelemi_PoivreLousise_1812_marriage_b.jpg](HainautBarthelemi_PoivreLousise_1812_marriage_b.jpg)](HainautBarthelemi_PoivreLousise_1812_marriage_b.jpg)
 
 
 ## Marriage: Barthélemi Joseph Hainaut & Marie Louise Poivre (1812)

@@ -1,5 +1,5 @@
 
-![HainautLeon_1874_death.jpg](HainautLeon_1874_death.jpg)
+[![HainautLeon_1874_death.jpg](HainautLeon_1874_death.jpg)](HainautLeon_1874_death.jpg)
 
 ##  Léon Hainaut (1874)
 
