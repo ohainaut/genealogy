@@ -3,7 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: jekyll-theme-caymaninclude:
+theme: jekyll-theme-cayman
 include:
   - CONTRIBUTING.md
   - README.md
