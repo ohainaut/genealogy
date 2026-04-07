@@ -52,7 +52,7 @@
 
 ---
 
-### Consolidated Master List of Names (1804–1849)
+###  Liste des noms (1804–1849)
 
 | Name (Last, First) | Profession | Role | Year | Source File |
 | :--- | :--- | :--- | :--- | :--- |
