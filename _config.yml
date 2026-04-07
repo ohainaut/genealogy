@@ -3,7 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-caymaninclude:
 include:
   - CONTRIBUTING.md
   - README.md
@@ -13,5 +13,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-title: Hainaut genealogy
+title: Généalogie Hainaut & Co
 description: Keeping track of some documents related to the Hainaut genealogy
