@@ -30,15 +30,15 @@ d'officier public de L'Etat civil soussigné.
 ---
 
 ### Dates
-* **Document Date:** 10 Pluviôse Year X (January 30, 1802)
-* **Date of Death:** "Avant hier" (Day before yesterday), meaning **8 Pluviôse Year X (January 28, 1802)** at 10:30 PM.
+* **Date du document:** 10 Pluviôse An X (Jan. 30, 1802)
+* **Date du décès:** "Avant hier" (Day before yesterday), meaning **8 Pluviôse An X (Jan. 28, 1802)** at 10:30 PM.
 
 ---
 
-| Name | Role in the Record | Occupation / Notes |
+| Nom | Rôle dans l'acte | Profession / Remarques |
 | :--- | :--- | :--- |
-| **Philippes Joseph Hainaut** | The Deceased | 70 years old, Day laborer (*journalier*), lived on Rue du Rivage |
+| **Philippes Joseph Hainaut** | Le défunt | 70 years old, Day laborer (*journalier*), lived on Rue du Rivage |
 | **Jeanne Joseph Marie Archange Ferard** | Deceased Spouse | Predeceased wife of Philippes Joseph |
-| **Thérèse Dubrecquoy** | Informant | 36 years old, Housewife (*ménagère*), neighbor |
-| **Marie Anne Dubrecquoy** | Informant | 58 years old, Housewife (*ménagère*), friend |
+| **Thérèse Dubrecquoy** | Déclarant | 36 years old, Housewife (*ménagère*), neighbor |
+| **Marie Anne Dubrecquoy** | Déclarant | 58 years old, Housewife (*ménagère*), friend |
 | **Constant Fidèle Duval** | Civil Officer | Mayor of Mons |

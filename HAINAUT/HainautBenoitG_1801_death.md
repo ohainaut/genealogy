@@ -61,24 +61,24 @@ Pour copie conforme.
 ---
 
 
-### Key Dates
+### Dates clés
 * **22 Nivôse Year IX:** Date the body was found (January 12, 1801)
 * **23 Nivôse Year IX:** Date the report was recorded (January 13, 1801)
 * **26 Nivôse Year IX:** Date this official copy was certified in Malines (January 16, 1801).
 
 ---
 
-### Summary of People Mentioned
+### Résumé des personnes mentionnées
 
-| Name | Role in the Record |
+| Nom | Rôle dans l'acte |
 | :--- | :--- |
 | **Martin Joseph Van Diepenbeek** | Police Commissioner of the first section of Malines |
 | **Verbeck** | Health Officer (Doctor) who examined the body |
 | **Unknown Deceased** | Unnamed corpse found in the Baingragt river (Date matches Benoît Hainaut from previous documents) |
 | **Benoît Ghislain Hainaut** | The deceased (42 years old, weaver, born in Mons) |
 | **J. B. J. Hainaut** | Brother of the deceased who identified the body |
-| **Philippe Joseph [Hainaut]** | Father of the deceased (Native of Mons) |
-| **Marie Jeanne Ferard** | Mother of the deceased (Native of Mons) |
+| **Philippe Joseph [Hainaut]** | Père de la défunte (Originaire de Mons) |
+| **Marie Jeanne Ferard** | Mère de la défunte (Originaire de Mons) |
 | **Geneviève Dacier** | Wife of the deceased (Native of Maubeuge) |
 | **M. J. Van Diepenbeek** | Police Commissioner in Malines |
 | **D. Verbeeck** | Health Officer in Malines |

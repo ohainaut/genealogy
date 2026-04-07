@@ -56,19 +56,19 @@ par le registre de l'état civil de cette commune.
 
 | Name | Profession | Role | Record No. |
 | :--- | :--- | :--- | :--- |
-| **Jules Joseph Hardy** | Forgeron de forme de faux (Scythe-blade smith) | **The Groom** (Born 1824, Danzig) | 22 |
-| **Anne Marie Grandry** | Ménagère (Housekeeper) | **The Bride** | 22 |
-| **Nicolas Hubert Hardy** | (Deceased) | Father of the Groom (Died Mar 15, 1841) | 22 |
-| **Marie Elisabeth Beck** | (Deceased) | Mother of the Groom (Died Mar 7, 1848) | 22 |
-| **Lambert Grandry** | Forgeron (Blacksmith) | Deceased Father of the Bride | 22 |
-| **Marie Louise Spatta** | (Deceased) | Deceased Mother of the Bride | 22 |
+| **Jules Joseph Hardy** | Forgeron de forme de faux (Scythe-blade smith) | **Le marié** (Né 1824, Dantzig) | 22 |
+| **Anne Marie Grandry** | Ménagère (Housekeeper) | **La mariée** | 22 |
+| **Nicolas Hubert Hardy** | (Décédé) | Père du marié (Décédé 15 mars 1841) | 22 |
+| **Marie Elisabeth Beck** | (Décédée) | Mère du marié (Décédée 7 mars 1848) | 22 |
+| **Lambert Grandry** | Forgeron (Blacksmith) | Père décédé de la mariée | 22 |
+| **Marie Louise Spatta** | (Décédée) | Mère décédée de la mariée | 22 |
 | **Gilles Joseph Maray** | Bourgmestre (Mayor) | Civil Officer | All |
-| **Jean Joseph Bacher** | Journalier (Day Laborer) | Father of newborn | 19 |
-| **Marie Catherine Salomon** | Ménagère (Housekeeper) | Mother of newborn | 19 |
-| **Lambert Montulet** | Journalier (Day Laborer) | The Deceased (Age 87) | 20 |
-| **Gilles Joseph Montulet** | Forgeron (Blacksmith) | Informant (Son of deceased) | 20 |
-| **Jean Hubert Dupont** | Négociant (Merchant) | Witness | 20, 21 |
-| **Jacques Joseph Delvaux** | Journalier (Day Laborer) | The Deceased (Age 78) | 21 |
-| **Jacques Delvaux** | Maître d'école (Schoolmaster) | Informant (Son of deceased) | 21 |
+| **Jean Joseph Bacher** | Journalier (Day Laborer) | Père de l'enfant | 19 |
+| **Marie Catherine Salomon** | Ménagère (Housekeeper) | Mère de l'enfant | 19 |
+| **Lambert Montulet** | Journalier (Day Laborer) | Le défunt (Âge 87) | 20 |
+| **Gilles Joseph Montulet** | Forgeron (Blacksmith) | Déclarant (Fils du défunt) | 20 |
+| **Jean Hubert Dupont** | Négociant (Merchant) | Témoin | 20, 21 |
+| **Jacques Joseph Delvaux** | Journalier (Day Laborer) | Le défunt (Âge 78) | 21 |
+| **Jacques Delvaux** | Maître d'école (Schoolmaster) | Déclarant (Fils du défunt) | 21 |
 | **Isabelle Heuse** | (Deceased) | Late wife of Jacques Delvaux | 21 |
 | **Anne Joseph Heuse** | (Deceased) | Late wife of Lambert Montulet | 20 |

@@ -22,19 +22,19 @@ présent acte après qu'il leur en a été fait lecture.
 
 ---
 
-### Key Dates
-* **Date of Document:** January 2, 1858, at 10:00 AM.
-* **Date of Birth:** "Avant-hier" (The day before yesterday), meaning **December 31, 1857**, at 12:00 PM (noon).
+### Dates clés
+* **Date du document:** January 2, 1858, at 10:00 AM.
+* **Date de naissance:** "Avant-hier", cad **Dec. 31, 1857**, a 12:00 PM (midi).
 
 ---
 
-### Summary of People Mentioned
+### Résumé des personnes mentionnées
 
-| Name | Role in the Record | Occupation / Notes |
+| Nom | Rôle dans l'acte | Profession / Remarques |
 | :--- | :--- | :--- |
 | **Fernand François Louis Hainaut** | The Newborn | Born Dec 31, 1857 |
-| **Léon Hainaut** | Father | 33 years old, Merchant (*marchand*), living on Rue du Haut bois |
-| **Anne Thérèse Alexandrine Mary** | Mother | 34 years old, wife of Léon |
-| **Pierre Hainaut** | Witness | 45 years old, Furrier (*fourier*) |
-| **Joseph Lefebvre** | Witness | 23 years old, Agent/Messenger (*commissionnaire*) |
+| **Léon Hainaut** | Père | 33 years old, Merchant (*marchand*), living on Rue du Haut bois |
+| **Anne Thérèse Alexandrine Mary** | Mère | 34 years old, wife of Léon |
+| **Pierre Hainaut** | Témoin | 45 years old, Furrier (*fourier*) |
+| **Joseph Lefebvre** | Témoin | 23 years old, Agent/Messenger (*commissionnaire*) |
 | **Charles Fontaine de Fromentel** | Civil Officer | Alderman (*Échevin*) of Mons |

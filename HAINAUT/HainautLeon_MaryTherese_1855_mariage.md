@@ -23,17 +23,17 @@ Et ont les époux, la mère de l’époux, le père et la mère de l’épouse e
 ---
 
 
-| Name | Role in the Record |
+| Nom | Rôle dans l'acte |
 | :--- | :--- |
-| **Léon Hainaut** | Groom (Brush maker, age 31) |
-| **Anne Thérèse Alexandrine Mary** | Bride (age 33) |
-| **Barthélemi Joseph Hainaut** | Deceased father of the groom |
-| **Marie Louise Voire** | Mother of the groom (Present & consenting) |
-| **François Joseph Ghislain Mary** | Father of the bride (Merchant, present & consenting) |
-| **Désirée Piette** | Mother of the bride (Present & consenting) |
-| **Adolphe Hainaut** | Witness (Groom's brother, Bookbinder) |
-| **Alfred Jonson** | Witness (Cousin of the couple, Employee) |
-| **Philippe Mary** | Witness (Bride's brother, Music Professor) |
-| **Emile Mary** | Witness (Bride's brother, Basket maker) |
+| **Léon Hainaut** | Marié (Fabricant de brosses, Âge 31) |
+| **Anne Thérèse Alexandrine Mary** | Mariée (Âge 33) |
+| **Barthélemi Joseph Hainaut** | Père décédé du marié |
+| **Marie Louise Voire** | Mère du marié (Présente & consentante) |
+| **François Joseph Ghislain Mary** | Père de la mariée (Marchand, présent & consentant) |
+| **Désirée Piette** | Mère de la mariée (Présente & consentante) |
+| **Adolphe Hainaut** | Témoin (Frère du marié, Relieur) |
+| **Alfred Jonson** | Témoin (Cousin du couple, Employé) |
+| **Philippe Mary** | Témoin (Frère de l'épouse, Professeur de musique) |
+| **Emile Mary** | Témoin (Frère de l'épouse, Vannier) |
 | **Maître Gérard** | Notary in Mons (Marriage contract) |
 | **Charles Fontaine de Fromentel** | Chevalier de l'Ordre de Léopold, Alderman and Civil Officer |

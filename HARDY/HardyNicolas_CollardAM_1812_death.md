@@ -40,15 +40,15 @@ Naissance: L’an Mil huit Cent Douze le Douzième jour du mois de May... est co
 
 | Name | Profession | Role | Record |
 | :--- | :--- | :--- | :--- |
-| **Anne Marie Collard** | Filleuse (Spinner) | **The Deceased** (Wife of Nicolas Hubert) | Death (Apr 27) |
-| **Nicolas Hubert Hardy** | Forgeron (Blacksmith) | Husband of deceased / Father of deceased infant | Death (Apr 27/29) |
-| **Gilles Joseph Hardy** | — | **The Deceased** (Infant, 1 day old) | Death (Apr 29) |
-| **Léonard Hardy** | Forgeron (Blacksmith) | Witness (Age 43) | Birth (May 12) |
-| **Mathieu Hardy** | Frappeur (Striker) | Witness (Age 36) | Birth (May 12) |
-| **Thomas Dombrot** | Cultivateur (Farmer) | Witness (Age 64/66) | Death (Apr 27/29) |
-| **Simon Signy** | Forgeron (Blacksmith) | Witness (Age 48) | Death (Apr 27/29) |
-| **Walther Saive** | Faucheur (Mower) | Father of newborn | Birth (May 12) |
-| **Marie Elisabeth Deheuse**| — | Mother of newborn | Birth (May 12) |
-| **Jacques Saive** | Journalier (Day laborer)| The Deceased (Age 72) | Death (Aug 6) |
-| **Arnolde Joseph Bougaert**| Prêtre (Priest) | The Deceased (Age 66) | Death (Aug 5) |
+| **Anne Marie Collard** | Filleuse (Spinner) | **Le défunt** (Wife of Nicolas Hubert) | Death (Apr 27) |
+| **Nicolas Hubert Hardy** | Forgeron (Blacksmith) | Husband of deceased / Père of deceased infant | Death (Apr 27/29) |
+| **Gilles Joseph Hardy** | — | **Le défunt** (Infant, 1 day old) | Death (Apr 29) |
+| **Léonard Hardy** | Forgeron (Blacksmith) | Témoin (Âge 43) | Naissance (12 mai) |
+| **Mathieu Hardy** | Frappeur (Striker) | Témoin (Âge 36) | Naissance (12 mai) |
+| **Thomas Dombrot** | Cultivateur (Farmer) | Témoin (Âge 64/66) | Décès (27/29 avril) |
+| **Simon Signy** | Forgeron (Blacksmith) | Témoin (Âge 48) | Death (Apr 27/29) |
+| **Walther Saive** | Faucheur (Mower) | Père de l'enfant | Naissance (12 mai) |
+| **Marie Elisabeth Deheuse**| — | Mère de l'enfant | Naissance (12 mai) |
+| **Jacques Saive** | Journalier (Day laborer)| Le défunt (Âge 72) | Death (Aug 6) |
+| **Arnolde Joseph Bougaert**| Prêtre (Priest) | Le défunt (Âge 66) | Death (Aug 5) |
 | **Hubert Degotte** | Maire (Mayor) | Civil Officer | All |

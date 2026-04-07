@@ -23,18 +23,18 @@ lecture.
 
 ---
 
-### Key Dates
-* **Date of Document:** May 1, 1832, at 11:00 AM.
-* **Date of Death:** "Hier" (Yesterday), meaning **April 30, 1832**, at 8:00 AM.
+### Dates clés
+* **Date du document:** May 1, 1832, at 11:00 AM.
+* **Date du décès:** "Hier" (Yesterday), meaning **April 30, 1832**, at 8:00 AM.
 
 ---
 
-### Summary of People Mentioned
+### Résumé des personnes mentionnées
 
-| Name | Role in the Record | Occupation / Notes |
+| Nom | Rôle dans l'acte | Profession / Remarques |
 | :--- | :--- | :--- |
-| **Barthélemi Joseph Hainaut** | The Deceased | 45 years old, Shoemaker (*cordonnier*), lived on Rue Notre Dame No. 11 |
+| **Barthélemi Joseph Hainaut** | Le défunt | 45 years old, Shoemaker (*cordonnier*), lived on Rue Notre Dame No. 11 |
 | **Louise Poivre** | Spouse | Wife of Barthélemi |
-| **François Fonson** | Informant / Witness | 40 years old, Carpenter (*Charpentier*), brother-in-law |
-| **Jean Baptiste Coquelle** | Informant / Witness | 46 years old, Locksmith (*Serrurier*), neighbor |
+| **François Fonson** | Déclarant / Témoin | 40 years old, Carpenter (*Charpentier*), brother-in-law |
+| **Jean Baptiste Coquelle** | Déclarant / Témoin | 46 years old, Locksmith (*Serrurier*), neighbor |
 | **Jean Baptiste Marie Chasseliet** | Civil Officer | Alderman (*Échevin*) of Mons |

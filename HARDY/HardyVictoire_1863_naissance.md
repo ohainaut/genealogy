@@ -2,7 +2,6 @@
 [![HardyVictoire_1863_naissance.jpg](HardyVictoire_1863_naissance.jpg)](HardyVictoire_1863_naissance.jpg)
 
 
-### Original French Transcription
 **N° 9**
 **NAISSANCE de Victoire Julie Hardy du 9 février 1863**
 

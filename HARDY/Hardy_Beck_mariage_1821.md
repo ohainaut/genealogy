@@ -2,10 +2,10 @@
 
 ---
 
-| Column | 1. Groom's Name & Status | 2. Father's Info | 3. Age | 4. Consent | 5. Previous Status / Notes |
+| Column | 1. Nom & Status du marié| 2. Info du Père | 3. Âge | 4. Consent | 5. Previous Status / Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1. German Headings** | Vor- und Zunamen, auch Stand und Wohnort des Bräutigams. | Vor- und Zunamen, auch Stand und Wohnort des Vaters. | Alter des Bräutigams. | Ob Eltern oder der Vormund die Einwilligung gegeben und wie solches geschehen. | Ob er schon verheirathet gewesen, und wie die Ehe getrennt worden. |
-| **2. Translation** | First and last names, also rank and residence of the groom. | First and last names, also rank and residence of the father. | Age of the groom. | Whether parents or guardian gave consent and how it was done. | Whether he was previously married and how the marriage was dissolved. |
+| **2. Translation** | Prénoms et noms, aussi rang et résidence du marié. | Prénoms et noms, aussi rang et résidence du père. | Âge du marié. | Si les parents ou le tuteur ont donné leur consentement et comment cela a été fait. | S'il a déjà été marié et comment le mariage a été dissous. |
 | **3. Original Entry** | Hr. Johann Friedrich Hardy, Bürger und Schmiedemeister am Hallischen Thore, hat 12 Jahre hie[-]selbst gewohnt. | Jacob Hardy, Hofschirrmeister in Bellin, todt. | 39 J. 1/2 | — | geschieden zufolge richterlichem Urtheil von Potsdam vom 18. October & 24. November 1810 & zur anderweitigen Verehelichung zugelassen. |
 | **4. Translation** | Mr. Johann Friedrich Hardy, citizen and master blacksmith at the Hallesches Tor, has lived here for 12 years. | Jacob Hardy, Court Equipment Master in Bellin, deceased. | 39 1/2 yrs | — | Divorced according to judicial verdict from Potsdam of October 18 & November 24, 1810, & permitted to remarry. |
 
@@ -13,10 +13,10 @@
 ---
 
 
-| Column | 1. Bride's Name | 2. Father's Info | 3. Age | 4. Consent | 5. Previous Status / Notes | 6. Wedding Date | 7. Preacher |
+| Column | 1. Nom de la mariée | 2. Infos du père | 3. Âge | 4. Consentement | 5. Statut précédent / Remarques | 6. Date du mariage | 7. Prédicateur |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1. German Headings** | Vor- und Zunamen der Braut. | Vor- und Zunamen, auch Stand und Wohnort des Vaters der Braut. | Alter der Braut. | Ob Eltern oder der Vormund die Einwilligung gegeben und wie solches geschehen. | Ob sie schon verheirathet gewesen, und wie die Ehe getrennt worden. | Tag der Copulation mit Buchstaben und Zahlen. | Namen des Predigers, der die Copulation verrichtet. |
-| **2. Translation** | First and last names of the bride. | First and last names, also rank and residence of the bride's father. | Age of the bride. | Whether parents or guardian gave consent and how it was done. | Whether she was previously married and how the marriage was dissolved. | Day of the wedding in letters and numbers. | Name of the preacher performing the wedding. |
+| **2. Translation** | First and last names of the bride. | First and last names, also rank and residence of the bride's father. | Âge of the bride. | Whether parents or guardian gave consent and how it was done. | Whether she was previously married and how the marriage was dissolved. | Day of the wedding in letters and numbers. | Name of the preacher performing the wedding. |
 | **3. Original Entry** | Maria Elisabeth Beck, jungfer | Eustachii Beck, Hofschirrmeister in Hattingen, todt. | 28 J. | — | war noch nicht verheirathet gewesen, hat in dessen mit Hardy über 12 Jahre gelebt, & von ihm 3 lebende Kinder hinterl. | sieben und zwanzigster (27.) September | Hr. Superint. Stornberg |
 | **4. Translation** | Maria Elisabeth Beck, maiden | Eustachius Beck, Court Equipment Master in Hattingen, deceased. | 28 yrs | — | Had not yet been married; has meanwhile lived with Hardy for over 12 years, & left [produced] 3 living children by him. | Twenty-seventh (27th) of September | Mr. Superintendent Stornberg |
 

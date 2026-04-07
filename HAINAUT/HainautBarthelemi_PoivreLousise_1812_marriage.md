@@ -23,16 +23,16 @@ de **Charles Savoje**, âgé de trente huit ans, huissier de cette Mairie, lesqu
 ---
 
 
-| Name | Role in the Record |
+| Nom | Rôle dans l'acte |
 | :--- | :--- |
-| **Barthélemi Joseph Hainaut** | Groom (25 years old) |
-| **Marie Louise Poivre** | Bride (19 years old) |
-| **Benoît Hainaut** | Deceased father of the groom |
-| **Marie Anne Geneviève Dacier** | Mother of the groom (Present & consenting) |
-| **Louis Poivre** | Father of the bride (Postman, present & consenting) |
-| **Marie Joseph Ghislain** | Mother of the bride |
-| **Dominique Henry** | Witness (Writer/Clerk, 18 years old) |
-| **Richard Remy** | Witness (Goldsmith, 24 years old) |
-| **Philippe Gantier** | Witness (Writer/Clerk, 28 years old) |
-| **Charles Savoje** | Witness (Bailiff of the town hall, 38 years old) |
+| **Barthélemi Joseph Hainaut** | Marié (25 ans) |
+| **Marie Louise Poivre** | Mariée (19 ans) |
+| **Benoît Hainaut** | Père décédé du marié |
+| **Marie Anne Geneviève Dacier** | Mère du marié (Présente & consentante) |
+| **Louis Poivre** | Père de la mariée (Postier, présent & consentant) |
+| **Marie Joseph Ghislain** | Mère de la mariée |
+| **Dominique Henry** | Témoin (Écrivain/Clerc, 18 ans) |
+| **Richard Remy** | Témoin (Orfèvre, 24 ans) |
+| **Philippe Gantier** | Témoin (Écrivain/Clerc, 28 ans) |
+| **Charles Savoje** | Témoin (Huissier de la mairie, 38 ans) |
 | **XXXX** | Deputy Officer (Adjoint) representing the Mayor |

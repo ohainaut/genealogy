@@ -9,9 +9,9 @@
 -    Jules Joseph Hardy (b. 1824 in Danzig) & Anne Marie Grandry (m. 1849)
 
 
-## Summary
+## Résumé
 
-| Last, First Name          | Birth (Date/Place) | Marriage (Date/Place/Bride) | Death (Date/Place) | Occupations |
+| Nom (Nom, Prénom)          | Naissance (Date/Lieu) | Mariage (Date/Lieu/Conjoint) | Décès (Date/Lieu) | Professions |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Hardy, Gilles Mathieu**](https://www.familysearch.org/en/tree/person/details/PCPH-H4D) | ~1740s / Olne | ~1770 ([voir *](Hardy_Nivose.md)) [Marie Elisabeth Larget (Fagot)](https://www.familysearch.org/en/tree/person/details/PCPH-FHD) | Before 1804 / Olne | - | 
 |  | | | |  |
@@ -56,55 +56,55 @@
 
 | Name (Last, First) | Profession | Role | Year | Source File |
 | :--- | :--- | :--- | :--- | :--- |
-| **Absil**, François Gérard | Cabaretier | Witness (Age 50) | 1832 | [HardyJeanLambert_1832_death.jpg](HardyJeanLambert_1832_death.jpg) |
+| **Absil**, François Gérard | Cabaretier | Témoin (Âge 50) | 1832 | [HardyJeanLambert_1832_death.jpg](HardyJeanLambert_1832_death.jpg) |
 | **André Saive**, Marie Antoinette | — | Newborn Child | 1811 | [HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
-| **Bacher**, Jean Joseph | Journalier | Father of newborn | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
+| **Bacher**, Jean Joseph | Journalier | Père de l'enfant | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
 | **Bacher**, Jean Joseph | — | Newborn Child | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
-| **Bacher**, Jean Pierre Joseph | Maître boulanger | Father of newborn | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
+| **Bacher**, Jean Pierre Joseph | Maître boulanger | Père de l'enfant | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
 | **Bacher**, Marie Josephine | — | Newborn Child | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
-| **Beck**, Etienne (Eustachius) | Hofschirrmeister | Father of Marie Elisabeth | 1821 | [Hardy_Beck_mariage_1821a.jpg](Hardy_Beck_mariage_1821a.jpg) [Hardy_Beck_mariage_1821b.jpg](Hardy_Beck_mariage_1821b.jpg) |
+| **Beck**, Etienne (Eustachius) | Hofschirrmeister | Père of Marie Elisabeth | 1821 | [Hardy_Beck_mariage_1821a.jpg](Hardy_Beck_mariage_1821a.jpg) [Hardy_Beck_mariage_1821b.jpg](Hardy_Beck_mariage_1821b.jpg) |
 | **Beck**, Marie Elisabeth | Ménagère | **The Matriarch** (2nd Wife) | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
-| **Beco**, Lambert | Armurier | Son / Informant | 1842 | [HardyCatherine_1842_death.jpg](HardyCatherine_1842_death.jpg) |
-| **Berar**, Gilles Joseph | Armurier | Son / Informant | 1842 | [HardyCatherine_1842_death.jpg](HardyCatherine_1842_death.jpg) |
-| **Bougaert**, Arnolde Joseph | Prêtre (Priest) | The Deceased | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
+| **Beco**, Lambert | Armurier | Son / Déclarant | 1842 | [HardyCatherine_1842_death.jpg](HardyCatherine_1842_death.jpg) |
+| **Berar**, Gilles Joseph | Armurier | Son / Déclarant | 1842 | [HardyCatherine_1842_death.jpg](HardyCatherine_1842_death.jpg) |
+| **Bougaert**, Arnolde Joseph | Prêtre (Priest) | Le défunt | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
 | **Collard**, Anne Marie | Filleuse |  1st Wife (Deceased) of Nicolas J. Hardy | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
-| **Collard**, Jean François | — | Deceased Father of Anne M. | 1811 |[HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
+| **Collard**, Jean François | — | Deceased Père of Anne M. | 1811 |[HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
 | **Counet**, Marie Elisabeth | Ménagère | Wife of Jean Lambert | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
-| **David**, Marie Jeanne | — | Mother of deceased infant | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
+| **David**, Marie Jeanne | — | Mère of deceased infant | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
 | **De Heuse**, Marie Joseph | Ménagère | Wife of Hubert Joseph Hardy | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
-| **Degotte**, Bertrand | Équisseur de canon | Witness (Age 40) | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
+| **Degotte**, Bertrand | Équisseur de canon | Témoin (Âge 40) | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
 | **Degotte**, Hubert | Maire | Civil Officer | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
 | **Degotte**, Nicolas Joseph | Bourgmestre | Civil Officer | 1832 | [HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg) |
-| **Delvaux**, Jacques | Maître d'école | Witness / Neighbor | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
-| **Dombrot**, Thomas | Cultivateur | Witness (Neighbor) | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
-| **Fagot**, Marie Elisabeth | — | Mother of Jean Lambert | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
-| **Fontaine**, Denis | Forgeron | Father of newborn | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
-| **Genon**, Jean Pierre | Forgeron | Father of deceased infant | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
+| **Delvaux**, Jacques | Maître d'école | Témoin / Neighbor | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
+| **Dombrot**, Thomas | Cultivateur | Témoin (Neighbor) | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
+| **Fagot**, Marie Elisabeth | — | Mère of Jean Lambert | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
+| **Fontaine**, Denis | Forgeron | Père de l'enfant | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
+| **Genon**, Jean Pierre | Forgeron | Père of deceased infant | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
 | **Grandry**, Anne Marie | Ménagère | la mère | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
-| **Grandry**, Gilles Joseph | Forgeron | Son-in-law / Witness | 1841 | [HardyNicolas_1841_death.jpg](HardyNicolas_1841_death.jpg) (file missing) |
+| **Grandry**, Gilles Joseph | Forgeron | Son-in-law / Témoin | 1841 | [HardyNicolas_1841_death.jpg](HardyNicolas_1841_death.jpg) (file missing) |
 | **Grandry**, Marie Ida | Ménagère | Wife of Gilles Joseph | 1832 | [HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg) |
 | **Hardy**, Catherine | Ménagère | Deceased (Daughter of G.M.) | 1842 | [HardyCatherine_1842_death.jpg](HardyCatherine_1842_death.jpg) |
-| **Hardy**, Gilles | Forgeron de canon | Brother / Witness | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
+| **Hardy**, Gilles | Forgeron de canon | Brother / Témoin | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
 | **Hardy**, Gilles Joseph | Forgeron | patriarche (Died 1832) | 1832 | [HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg) |
-| **Hardy**, Gilles Joseph | — | Deceased Infant (Age 1 day) | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
+| **Hardy**, Gilles Joseph | — | Deceased Infant (Âge 1 day) | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
 | **Hardy**, Gilles Joseph | — | Newborn Grandson | 1848 | [Beck_Elisabeth_1848_death.jpg](Beck_Elisabeth_1848_death.jpg) |
-| **Hardy**, Gilles Mathieu | Ancetre | Father of the brothers | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
-| **Hardy**, Hubert Joseph | Cloutier / Forgeron | Newborn (1804) / Witness | 1848 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
-| **Hardy**, Jean Lambert | Polisseur d'armes | Groom (1804) / Deceased | 1832 | [HardyJeanLambert_1832_death.jpg](HardyJeanLambert_1832_death.jpg) |
-| **Hardy**, Jules Joseph | Forgeron de faux  et de canons | **The Groom** (Born Danzig) | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
-| **Hardy**, Léonard | Forgeron armurier | Father (1804) / Witness | 1832 | [HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg) |
-| **Hardy**, Mathieu | Frappeur / Forgeron | Brother / Witness | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
+| **Hardy**, Gilles Mathieu | Ancetre | Père of the brothers | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
+| **Hardy**, Hubert Joseph | Cloutier / Forgeron | Newborn (1804) / Témoin | 1848 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
+| **Hardy**, Jean Lambert | Polisseur d'armes | Marié (1804) / Deceased | 1832 | [HardyJeanLambert_1832_death.jpg](HardyJeanLambert_1832_death.jpg) |
+| **Hardy**, Jules Joseph | Forgeron de faux  et de canons | **Le marié** (Born Danzig) | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
+| **Hardy**, Léonard | Forgeron armurier | Père (1804) / Témoin | 1832 | [HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg) |
+| **Hardy**, Mathieu | Frappeur / Forgeron | Brother / Témoin | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
 | **Hardy**, Nicolas Hubert | Forgeron armurier | le père | All | [HardyNicolas_1841_death.jpg](HardyNicolas_1841_death.jpg) (file missing) |
-| **Heuse**, Anne | — | Mother in 1811 birth | 1811 | [HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
-| **Larget**, Marie Elisabeth | — | Mother of Gilles Joseph | 1832 | [HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg) |
+| **Heuse**, Anne | — | Mère in 1811 birth | 1811 | [HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
+| **Larget**, Marie Elisabeth | — | Mère of Gilles Joseph | 1832 | [HardyGillesJoseph_1832_death.jpg](HardyGillesJoseph_1832_death.jpg) |
 | **Maray**, Gilles Joseph | Bourgmestre | Civil Officer | 1841 | [HardyNicolas_1841_death.jpg](HardyNicolas_1841_death.jpg) (file missing) |
-| **Montulet**, Lambert | Journalier | The Deceased (Age 87) | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
+| **Montulet**, Lambert | Journalier | Le défunt (Âge 87) | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
 | **Pingnée**, Gertrude | — | Wife of Léonard Hardy | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
-| **Potale**, Anne Marie | — | Mother of newborn | 1811 | [HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
-| **Regnier**, Henry | Forgeron de canon | Witness (Age 44) | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
-| **Saive**, Jacques | Journalier | The Deceased (Age 72) | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
-| **Saive**, Walther | Faucheur | Father of newborn | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
-| **Salomon**, Marie Catherine | Ménagère | Mother of newborn | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
-| **Werse**, Marie Jeanne | — | Mother of Anne M. Collard | 1811 | [HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
+| **Potale**, Anne Marie | — | Mère de l'enfant | 1811 | [HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
+| **Regnier**, Henry | Forgeron de canon | Témoin (Âge 44) | 1804 | [Hardy_Nivose.jpg](Hardy_Nivose.jpg) |
+| **Saive**, Jacques | Journalier | Le défunt (Âge 72) | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
+| **Saive**, Walther | Faucheur | Père de l'enfant | 1812 | [HardyNicolas_CollardAM_1812_death.jpg](HardyNicolas_CollardAM_1812_death.jpg) |
+| **Salomon**, Marie Catherine | Ménagère | Mère de l'enfant | 1849 | [HardyJules_GrandryAM_1849mariage.jpg](HardyJules_GrandryAM_1849mariage.jpg) |
+| **Werse**, Marie Jeanne | — | Mère of Anne M. Collard | 1811 | [HardyNicolas_CollardAM_1811_mariage.jpg](HardyNicolas_CollardAM_1811_mariage.jpg) |
 
 

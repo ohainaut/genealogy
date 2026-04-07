@@ -11,19 +11,19 @@ L'An Mil huit cent vingt quatre le Cinq du mois d'avril à quatre heures après 
 
 ---
 
-### Key Dates
-* **Date of Document:** April 5, 1824, at 4:00 PM.
-* **Date of Birth:** April 4, 1824 ("né hier"), at 6:00 PM.
+### Dates clés
+* **Date du document:** April 5, 1824, at 4:00 PM.
+* **Date de naissance:** April 4, 1824 ("né hier"), at 6:00 PM.
 
 ---
 
-### Summary of People Mentioned
+### Résumé des personnes mentionnées
 
-| Name | Role in the Record | Occupation / Notes |
+| Nom | Rôle dans l'acte | Profession / Remarques |
 | :--- | :--- | :--- |
 | **Léon Hainaut** | The Newborn | Born April 4, 1824 |
-| **Barthélemi Joseph Hainaut** | Father | 36 years old, Bootmaker (*bottier*), living on Rue Notre Dame |
-| **Marie Louise Poivre** | Mother | Wife of Barthélemi |
-| **François Adolphe Fonson** | Witness | 27 years old, Carpenter (*Charpentier*) |
-| **Louis Barthélemi Hainaut** | Witness, brother | 25 years old, Weaver (*Tisserand*) |
+| **Barthélemi Joseph Hainaut** | Père | 36 years old, Bootmaker (*bottier*), living on Rue Notre Dame |
+| **Marie Louise Poivre** | Mère | Wife of Barthélemi |
+| **François Adolphe Fonson** | Témoin | 27 years old, Carpenter (*Charpentier*) |
+| **Louis Barthélemi Hainaut** | Témoin, brother | 25 years old, Weaver (*Tisserand*) |
 | **Jean Baptiste Marie Chasseliet** | Civil Officer | Alderman (*Échevin*) of Mons |

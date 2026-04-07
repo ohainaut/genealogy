@@ -9,20 +9,20 @@
 
 ---
 
-### Key Dates
-* **Date of Document:** April 4, 1874, at 11:00 AM.
-* **Date of Death:** April 4, 1874 ("aujourd'hui"), at 5:00 AM.
+### Dates clés
+* **Date du document:** April 4, 1874, at 11:00 AM.
+* **Date du décès:** April 4, 1874 ("aujourd'hui"), at 5:00 AM.
 
 ---
 
-### Summary of People Mentioned
+### Résumé des personnes mentionnées
 
-| Name | Role in the Record | Occupation / Notes |
+| Nom | Rôle dans l'acte | Profession / Remarques |
 | :--- | :--- | :--- |
-| **Léon Hainaut** | The Deceased | 50 years old, Merchant (*Marchand*), died at Rue du Haut Bois |
+| **Léon Hainaut** | Le défunt | 50 years old, Merchant (*Marchand*), died at Rue du Haut Bois |
 | **Anne Thérèse Alexandrine Mary** | Spouse | Wife of Léon |
-| **Barthélemi Joseph Hainaut** | Father | Deceased father of Léon |
-| **Marie Louise Poivre** | Mother | Mother of Léon |
-| **Emile Caverne** | Informant / Witness | 22 years old, Tinsmith (*Ferblantier*), neighbor |
-| **Auguste Vanney** | Informant / Witness | 41 years old, Tinsmith (*Ferblantier*), neighbor |
+| **Barthélemi Joseph Hainaut** | Père | Père décédé de Léon |
+| **Marie Louise Poivre** | Mère | Mère de Léon |
+| **Emile Caverne** | Déclarant / Témoin | 22 years old, Tinsmith (*Ferblantier*), neighbor |
+| **Auguste Vanney** | Déclarant / Témoin | 41 years old, Tinsmith (*Ferblantier*), neighbor |
 | **Adolphe Pecher** | Civil Officer | Alderman (*Échevin*) of Mons |

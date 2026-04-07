@@ -31,17 +31,17 @@ mois et an ci-dessus:
 
 ---
 
-### Key Dates
-* **21 Thermidor Year VI:** Date of the act and the death (August 8, 1798).
+### Dates clés
+* **21 Thermidor An VI:** Date de l'acte et du décès (8 août 1798).
 
 ---
 
-### Summary of People Mentioned
+### Résumé des personnes mentionnées
 
-| Name | Role in the Record |
+| Nom | Rôle dans l'acte |
 | :--- | :--- |
 | **Philippine Hainaut** | The deceased (5 and a half years old, daughter of Benoit and Geneviève) |
-| **Benoît Hainaut** | Father of the deceased (43 years old, weaver, informant) |
-| **Geneviève Dacier** | Mother of the deceased |
+| **Benoît Hainaut** | Père de la défunte (43 ans, tisserand, déclarant) |
+| **Geneviève Dacier** | Mère de la défunte |
 | **Etienne Joseph Willame** | Friend of the family (40 years old, writer/clerk, informant) |
 | **Charles Augustin Joseph Hanot** | Municipal officer of Mons |

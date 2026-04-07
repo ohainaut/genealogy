@@ -100,21 +100,21 @@ le Sieur jean Richel ont Déclaré de ne savoir écrire.   Léonard Hardy
 
 | Name | Profession | Role | Record Location |
 | :--- | :--- | :--- | :--- |
-| **Nicolas Hubert Hardy** | Forgeron (Blacksmith) | **The Groom** (Age 21; Son of Gilles) | Bottom Right (Marriage) |
-| **Anne Marie Collard** | Filleuse (Spinner) | **The Bride** (Age 24; 1st Wife) | Bottom Right (Marriage) |
-| **Gilles Joseph Hardy** | — | Father of the Groom (Consent provider) | Bottom Right (Marriage) |
-| **Marie Ida Grandry** | — | Mother of the Groom | Bottom Right (Marriage) |
-| **Léonard Hardy** | Forgeron (Blacksmith) | **Witness** (Age 42; Primary Signatory) | Top Left, Bottom Left, Top Right |
-| **Nicolas Grandry** | Forgeron (Blacksmith) | Father of newborn; Witness | Top Left (Birth) |
-| **Anne Marie Potale** | — | Mother of newborn | Top Left (Birth) |
+| **Nicolas Hubert Hardy** | Forgeron (Blacksmith) | **Le marié** (Âge 21; Fils de Gilles) | Bottom Right (Marriage) |
+| **Anne Marie Collard** | Filleuse (Spinner) | **La mariée** (Âge 24; 1ère épouse) | Bottom Right (Marriage) |
+| **Gilles Joseph Hardy** | — | Père du marié (Fournisseur du consentement) | Bottom Right (Marriage) |
+| **Marie Ida Grandry** | — | Mère du marié | Bottom Right (Marriage) |
+| **Léonard Hardy** | Forgeron (Blacksmith) | **Témoin** (Âge 42; Signataire principal) | Top Left, Bottom Left, Top Right |
+| **Nicolas Grandry** | Forgeron (Blacksmith) | Père de l'enfant ; Témoin | Top Left (Naissance) |
+| **Anne Marie Potale** | — | Mère de l'enfant | Top Left (Naissance) |
 | **Nicolas Grandry** (Infant) | — | Newborn Child (born Oct 14, 1811) | Top Left (Birth) |
-| **Jean Richel** | Frappeur (Striker/Hammerman) | Witness (Age 57; Illiterate) | Top Left, Bottom Left, Top Right |
-| **Bertrand Degotte** | Emouteur (Grinder) | Father of newborn | Bottom Left (Birth) |
-| **Anne Heuse** | — | Mother of newborn | Bottom Left (Birth) |
+| **Jean Richel** | Frappeur (Striker/Hammerman) | Témoin (Âge 57; Analphabète) | Top Left, Bottom Left, Top Right |
+| **Bertrand Degotte** | Emouteur (Grinder) | Père de l'enfant | Bottom Left (Naissance) |
+| **Anne Heuse** | — | Mère de l'enfant | Bottom Left (Naissance) |
 | **Marie Elisabeth Degotte** | — | Newborn Child (born Oct 22, 1811) | Bottom Left (Birth) |
-| **Pierre André Saive** | Manoeuvre (Laborer) | Father of newborn | Top Right (Birth) |
-| **Marie Elisabeth Riompré** | — | Mother of newborn | Top Right (Birth) |
+| **Pierre André Saive** | Manoeuvre (Laborer) | Père de l'enfant | Top Right (Naissance) |
+| **Marie Elisabeth Riompré** | — | Mère de l'enfant | Top Right (Naissance) |
 | **Marie Antoinette André** | — | Newborn Child (born Oct 26, 1811) | Top Right (Birth) |
-| **Jean François Collard** | — | Deceased Father of the Bride | Bottom Right (Marriage) |
-| **Marie Jeanne Werse** | — | Mother of the Bride (Present/Consent) | Bottom Right (Marriage) |
+| **Jean François Collard** | — | Père décédé de la mariée | Bottom Right (Marriage) |
+| **Marie Jeanne Werse** | — | Mère de la mariée (Présente/Consentement) | Bottom Right (Marriage) |
 | **Hubert Degotte** | Maire (Mayor) | Civil Officer (Signs all records) | All Records |
