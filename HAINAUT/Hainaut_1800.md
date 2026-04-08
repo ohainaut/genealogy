@@ -3,8 +3,8 @@
 
 | Nom  | Naissance  | Marriage  | Décès |  | 
 |:---|:---|:---|:---|:---|
-|[**Haynaut, Philippe**](https://www.familysearch.org/en/tree/person/details/93QN-77K)       | 1575 | [Marie Dubois](https://www.familysearch.org/en/tree/person/details/L58C-6SD)           |1638  | |
-|<hr>  |  |  |  |  | 
+|**Haynaut, Philippe**[+](https://www.familysearch.org/en/tree/person/details/93QN-77K)       | 1575 | Marie Dubois[+](https://www.familysearch.org/en/tree/person/details/L58C-6SD)           |1638  | |
+|  |  |  |  |  | 
 |_Enfants de Philippe et Marie:_  |
 |Georges    |1604 |
 |NN         |     |
@@ -12,54 +12,54 @@
 |Philippe   |1610 |
 |Marie      |1614 |
 | Pierre    | 1617| 1642 Jeanne Goubaut | | |  
-|[**Haynaut, Matthieu**](https://www.familysearch.org/en/tree/person/details/L58C-NC7)        | 1621 | 1648 [Françoise Disart](https://www.familysearch.org/en/tree/person/details/L58C-NZQ)  |  |  | 
-|<hr>  |  |  |  |  | 
+|**Haynaut, Matthieu**[+](https://www.familysearch.org/en/tree/person/details/L58C-NC7)        | 1621 | 1648 Françoise Disart[+](https://www.familysearch.org/en/tree/person/details/L58C-NZQ)  |  |  | 
+|  |  |  |  |  | 
 |_Enfants de Matthieu et Françoise:_  |  |  |  |  | 
-|[**Haynaut, Louis**](https://www.familysearch.org/en/tree/person/details/L58C-29Q)          | 1649 | 1680 [M. Anne Delfosse](https://www.familysearch.org/en/tree/person/details/L58C-KM8)   |  |  | 
-|<hr>  |  |  |  |  | 
+|**Haynaut, Louis**[+](https://www.familysearch.org/en/tree/person/details/L58C-29Q)          | 1649 | 1680 M. Anne Delfosse[+](https://www.familysearch.org/en/tree/person/details/L58C-KM8)   |  |  | 
+|  |  |  |  |  | 
 |_Enfants de Louis et Marie Anne:_  |  |  |  |  | 
-|[**Hainaut, Philippe**](https://www.familysearch.org/en/tree/person/details/L58C-F48)      | 1687 | 1711 [M.Françoise Lieppe](https://www.familysearch.org/en/tree/person/details/L58C-673) |  |  | 
-|<hr>  |  |  |  |  | 
+|**Hainaut, Philippe**[+](https://www.familysearch.org/en/tree/person/details/L58C-F48)      | 1687 | 1711 M.Françoise Lieppe[+](https://www.familysearch.org/en/tree/person/details/L58C-673) |  |  | 
+|  |  |  |  |  | 
 |_Enfants de  Philippe et Marie Françoise:_  | | | | | 
-|[**Hainaut, Philippe Joseph**](https://www.familysearch.org/en/tree/person/details/L58C-VMW) | 1724 | 1750 [Jeanne Ferard](https://www.familysearch.org/en/tree/person/details/L58C-DNJ)     | [1802*](HainautPhilippeJ_1802_death.md) | | 
-|<hr>  |  |  |  |  | 
+|**Hainaut, Philippe Joseph**[+](https://www.familysearch.org/en/tree/person/details/L58C-VMW) | 1724 | 1750 Jeanne Ferard[+](https://www.familysearch.org/en/tree/person/details/L58C-DNJ)     | [1802*](HainautPhilippeJ_1802_death.md) | | 
+|  |  |  |  |  | 
 |_Enfants de Philippe Joseph et Jeanne:_  |  |  |  |  | 
 | Marie-Thérese | 1750 | Jacques Leroy     | 1815 | | 
 | Gaspard       | 1753 | Catherine Daneaux | 1822 | |
 | Jean Baptiste | ~1755 |                   |||
 |Jeanne-Thérese | 1754 |                   | 1808 | | 
-|[**Hainaut, Benoit Ghislain**](https://www.familysearch.org/en/tree/person/details/L5K8-FF6) | 1754 | 1781 [M.A.Genevieve Dacier](https://www.familysearch.org/en/tree/person/details/L58C-2SL) | [1801*](HainautBenoitG_1801_death.md) ||
+|**Hainaut, Benoit Ghislain**[+](https://www.familysearch.org/en/tree/person/details/L5K8-FF6) | 1754 | 1781 M.A.Genevieve Dacier[+](https://www.familysearch.org/en/tree/person/details/L58C-2SL) | [1801*](HainautBenoitG_1801_death.md) ||
 | Rosalie       | 1789 | Philippe Viseur   |  | | 
-|<hr>  |  |  |  |  | 
+|  |  |  |  |  | 
 |_Enfants de Benoit Ghislain et Genevieve:_  ||  |  |  | 
 | Louise Josephine | 1782 | Joseph Bodson | 1815 | |
 | Alexandre     | 1791 
-|[**Hainaut, Barthelemi**](https://www.familysearch.org/en/tree/person/details/LJV2-KV3)     | 1791 | [1812*](HainautBarthelemi_PoivreLousise_1812_marriage.md) [Louise Poivre](https://www.familysearch.org/en/tree/person/details/L58C-CYL)     | [1832*](HainautBarthelemi_1832_death.md) | | 
+|**Hainaut, Barthelemi**[+](https://www.familysearch.org/en/tree/person/details/LJV2-KV3)     | 1791 | [1812*](HainautBarthelemi_PoivreLousise_1812_marriage.md) Louise Poivre[+](https://www.familysearch.org/en/tree/person/details/L58C-CYL)     | [1832*](HainautBarthelemi_1832_death.md) | | 
 | Philippe      | 1793
 | Henri         |
 | François      |
 | Louis Barthélemy | 1799 | Félicité Juste | 1845 | | 
 | Genevieve     | 1789 | Philippe Viseur | | | 
-|<hr>  |  |  |  |  | 
+|  |  |  |  |  | 
 |_Enfants de Barthelemi et Louise:_  |  |  |  |  | 
 | Louis         | 1813 | | 1813 | |
 | Louis Henri   | 1814 | | 1814 | |
 | Henriette     | 1819 | | 1821 | | 
 | Adolphe       | 1822 | 1853 Elise Broutin | | |
 | Ursule
-|[**Hainaut, Leon**](https://www.familysearch.org/en/tree/person/details/L58C-KMX)           | [1824*](HainautLeon_1824_birth.md) | [1855*](HainautLeon_MaryTherese_1855_mariage.md) [Therese Mary](https://www.familysearch.org/en/tree/person/details/LJVB-YHG)      | [1874*](HainautLeon_1874_death.md) | | 
-|<hr>  |  |  |  |  | 
+|**Hainaut, Leon**[+](https://www.familysearch.org/en/tree/person/details/L58C-KMX)           | [1824*](HainautLeon_1824_birth.md) | [1855*](HainautLeon_MaryTherese_1855_mariage.md) Therese Mary[+](https://www.familysearch.org/en/tree/person/details/LJVB-YHG)      | [1874*](HainautLeon_1874_death.md) | | 
+|  |  |  |  |  | 
 |_Enfants de Leon  et Therese:_  |  |  |  |  | 
-|[**Hainaut, Fernand**](https://www.familysearch.org/en/tree/person/details/L58C-811)        | 1857 | [1887*](HainautFernand_HardyVictoire_1887_mariage.md) [Victoire Hardy](https://www.familysearch.org/en/tree/person/details/L58C-JB1)    | 1928 | | 
+|**Hainaut, Fernand**[+](https://www.familysearch.org/en/tree/person/details/L58C-811)        | 1857 | [1887*](HainautFernand_HardyVictoire_1887_mariage.md) Victoire Hardy[+](https://www.familysearch.org/en/tree/person/details/L58C-JB1)  <br>[**Lignée Hary**](../HARDY/Hardy_1800.md)   | 1928 | | 
 | Edmond       | 1859 | Léonie de Hollain | 1932 |
 | Ernest       | 1861 | | 1862
 | Ernest       | 1863 | Helene Demasure | 1935 |
 | Hortense     | 1868 | | 1869 
-|<hr>  |  |  |  |  | 
+|  |  |  |  |  | 
 |_Enfants de  Fernand et Victoire:_  |  |  |  |  | 
 | Nelly        | 1882 | | 1978 |
-|[**Hainaut, Raoul**](https://www.familysearch.org/en/tree/person/details/L58C-DM9)          | [1891*](HainautRaoul_1891_naissance.md) | 1919 [Laure Desguin](https://www.familysearch.org/en/tree/person/details/L58C-FRF)     | 1960 | | 
-|<hr>  |  |  |  |  | 
+|**Hainaut, Raoul**[+](https://www.familysearch.org/en/tree/person/details/L58C-DM9)          | [1891*](HainautRaoul_1891_naissance.md) | 1919 Laure Desguin[+](https://www.familysearch.org/en/tree/person/details/L58C-FRF)<br>[**Lignée Desguin**](../DESGUIN/Desguin_1800.md)     | 1960 | | 
+|  |  |  |  |  | 
 |_Enfants de  Raoul et Laure:_  |  |  |  |  | 
 | Fernand     | 1925 | Madeleine Duquesne | 1970 |
 | Raoul       | 1927 | | 1930 |
@@ -69,7 +69,7 @@
 | Elisabeth   | 1934 | Jean Mélon  |    
 |**Hainaut, Jean-Pierre**    | 1936 | 1962 Arlette Denys    | | | 
 | Laure       | 1939 
-|<hr>  |  |  |  |  | 
+| |  |  |  |  | 
 |_Enfants de  Jean-Pierre et Arlette:_  |  |  |  |  | 
 |**Hainaut, Olivier**        | 1966 | 1989 Marie-Claire Rouelle 
 
