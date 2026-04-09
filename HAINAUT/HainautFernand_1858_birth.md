@@ -1,5 +1,5 @@
 [![HainautFernand_1858_birth.jpg](HainautFernand_1858_birth.jpg)](HainautFernand_1858_birth.jpg)
-## Fernand François Louis Hainaut (1858)
+## Naissance de Fernand François Louis Hainaut (1858)
 
 **1.** L'an mil huit cent cinquante-huit, le deux du mois de janvier
 à dix heures du matin, par devant nous Charles Fontaine de
@@ -23,8 +23,8 @@ présent acte après qu'il leur en a été fait lecture.
 ---
 
 ### Dates clés
-* **Date du document:** January 2, 1858, at 10:00 AM.
-* **Date de naissance:** "Avant-hier", cad **Dec. 31, 1857**, a 12:00 PM (midi).
+* **Date du document:** January 2, 1858, à 10:00 AM.
+* **Date de naissance:** "Avant-hier", cad **Dec. 31, 1857**, à 12:00 PM (midi).
 
 ---
 
@@ -32,9 +32,9 @@ présent acte après qu'il leur en a été fait lecture.
 
 | Nom | Rôle dans l'acte | Profession / Remarques |
 | :--- | :--- | :--- |
-| **Fernand François Louis Hainaut** | The Newborn | Born Dec 31, 1857 |
-| **Léon Hainaut** | Père | 33 years old, Merchant (*marchand*), living on Rue du Haut bois |
-| **Anne Thérèse Alexandrine Mary** | Mère | 34 years old, wife of Léon |
-| **Pierre Hainaut** | Témoin | 45 years old, Furrier (*fourier*) |
-| **Joseph Lefebvre** | Témoin | 23 years old, Agent/Messenger (*commissionnaire*) |
-| **Charles Fontaine de Fromentel** | Civil Officer | Alderman (*Échevin*) of Mons |
+| **Fernand François Louis Hainaut** | Nouveau-né | Born Dec 31, 1857 |
+| **Léon Hainaut** | Père | 33 years old, marchand, vivant Rue du Haut Bois |
+| **Anne Thérèse Alexandrine Mary** | Mère | 34 ans, épouse de Léon |
+| **Pierre Hainaut** | Témoin | 45 ans, fourier|
+| **Joseph Lefebvre** | Témoin | 23 ans, commissionnaire |
+| **Charles Fontaine de Fromentel** | Civil Officer | Alderman/Échevin de Mons |

@@ -2,7 +2,7 @@
 [![HainautBenoitG_1801_death_b.jpg](HainautBenoitG_1801_death_b.jpg)](HainautBenoitG_1801_death_b.jpg)
 
 
-## Benoît Ghislain Hainaut (An IX / 1801)
+## Décès de Benoît Ghislain Hainaut (An IX / 1801)
 
 Extrait du Régistre aux actes des Décès
 de la Ville de Malines, Département des

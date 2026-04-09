@@ -1,6 +1,6 @@
-[![image](HainautPhilipine_1798_death.jpg)](HainautPhilipine_1798_death.jpg)
+[![image](HainautPhilippine_1798_death.jpg)](HainautPhilippine_1798_death.jpg)
 
-##  Philippine Hainaut (An VI / 1798)
+##  Décès de Philippine Hainaut (An VI / 1798)
 
 Aujourd'hui vingt et un Thermidor L'an Six de la Re=
 publique francaise à Six heures du soir pardevant moi

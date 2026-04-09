@@ -1,6 +1,6 @@
 [![HainautBarthelemi_1832_death.jpg](HainautBarthelemi_1832_death.jpg)](HainautBarthelemi_1832_death.jpg)
 
-##  Barthélemi Joseph Hainaut (1832)
+## Décès de Barthélemi Joseph Hainaut (1832)
 
 **289** L'An mil huit cent trente deux, le premier du mois de
 mai, à onze heures du matin, pardevant nous jean baptiste

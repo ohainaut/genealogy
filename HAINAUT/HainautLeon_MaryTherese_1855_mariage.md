@@ -2,7 +2,7 @@
 [![HainautLeon_MaryTherese_1855_mariage_b.jpg](HainautLeon_MaryTherese_1855_mariage_b.jpg)](HainautLeon_MaryTherese_1855_mariage_b.jpg)
 
 
-## Léon Hainaut & Anne Thérèse Alexandrine Mary (1855)
+## Marriage de Léon Hainaut & Anne Thérèse Alexandrine Mary (1855)
 
 **N° 100**
 

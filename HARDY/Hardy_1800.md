@@ -115,7 +115,7 @@
 3.  Mariage de Jules Hardy et Anne Marie Grandry, [1849](HardyJules_GrandryAM_1849mariage.md)
 4.  Décès de Elisabeth Beck, [1848](Beck_Elisabeth_1848_death.md)
 5.  Mariage de Nicolas (Hubert) Hardy et Elisabeth Beck, [1821](Hardy_Beck_mariage_1821.md)
-6.  Décès de Catherine Hardy, [1842](HardyCatherine_1842_death.md) |
+6.  Décès de Catherine Hardy, [1842](HardyCatherine_1842_death.md) 
 7.  Naissance et décès de Nicolas Hardy, et décès de sa mère Anne-Marie Collard [1812](HardyNicolas_CollardAM_1812_death.md)
 8.  Mariage de Jean Lambert Hardy (fils de Giles Mathieu H.) et Marie Elisabeth Counet,  [1804](Hardy_Nivose.md)
 9.  Décès de  Gilles Joseph Hardy, [1832](HardyGillesJoseph_1832_death.md) 

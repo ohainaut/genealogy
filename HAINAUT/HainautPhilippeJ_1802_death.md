@@ -2,7 +2,7 @@
 [![HainautPhilippeJ_1802_death.jpg](HainautPhilippeJ_1802_death.jpg)](HainautPhilippeJ_1802_death.jpg)
 
 
-## Philippes Joseph Hainaut (An X / 1802)
+## Décès de Philippes Joseph Hainaut (An X / 1802)
 
 Du dixieme jour du mois de Pluviose,
 L'an Dix de la République française.
