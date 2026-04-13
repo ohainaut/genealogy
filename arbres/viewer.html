@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hainaut Pedigree Viewer</title>
+<link rel="stylesheet" href="viewer.css">
+</head>
+<body>
+
+<div id="viewport">
+  <div id="svg-container"></div>
+</div>
+
+<!-- Search -->
+<div id="search-box">
+  <input id="search-input" type="text" placeholder="Search…" autocomplete="off">
+  <span id="search-info"></span>
+  <button id="search-prev" title="Previous">&#9650;</button>
+  <button id="search-next" title="Next">&#9660;</button>
+  <button id="search-clear" title="Clear">&times;</button>
+</div>
+
+<!-- Zoom / pan controls -->
+<div id="controls">
+  <button id="btn-zin" title="Zoom in">+</button>
+  <button id="btn-zout" title="Zoom out">&minus;</button>
+  <button id="btn-z100" title="Zoom to 100%">1:1</button>
+  <button id="btn-zfit" title="Zoom to fit">&#11036;</button>
+  <div class="separator"></div>
+  <button id="btn-up"   title="Move up">&#9650;</button>
+  <button id="btn-down" title="Move down">&#9660;</button>
+  <button id="btn-left" title="Move left">&#9664;</button>
+  <button id="btn-right"title="Move right">&#9654;</button>
+</div>
+
+<script src="viewer.js"></script>
+<script>
+  // ── Only this line changes per pedigree ──
+  initViewer("Hainaut_2026p_linked.svg");
+</script>
+</body>
+</html>

@@ -1,9 +1,9 @@
 # Genealogie Hainaut Desguin etc
 
 
-## Arbre
+## Arbres
 
-- Voir ce [site](https://sites.google.com/site/fetehainaut/genealogie)
+- [Hainaut-Desguin](arbres/viewer_Hainaut.html)
   
 
 ## Lignées
