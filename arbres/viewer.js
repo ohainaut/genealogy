@@ -113,6 +113,92 @@ function initViewer(svgFile) {
   viewport.addEventListener("pointerup",     () => { dragging = false; viewport.classList.remove("grabbing"); });
   viewport.addEventListener("pointercancel", () => { dragging = false; viewport.classList.remove("grabbing"); });
 
+  /* ── Touch pinch zoom and pan ── */
+  let touches = [];
+  let lastDistance = 0;
+  let lastTouchCenterX = 0, lastTouchCenterY = 0;
+
+  function getTouchDistance(t1, t2) {
+    const dx = t1.clientX - t2.clientX;
+    const dy = t1.clientY - t2.clientY;
+    return Math.sqrt(dx * dx + dy * dy);
+  }
+
+  function getTouchCenter(touchList) {
+    let sumX = 0, sumY = 0;
+    for (const t of touchList) {
+      sumX += t.clientX;
+      sumY += t.clientY;
+    }
+    return { x: sumX / touchList.length, y: sumY / touchList.length };
+  }
+
+  viewport.addEventListener("touchstart", e => {
+    if (e.touches.length >= 1) {
+      e.preventDefault();
+      touches = Array.from(e.touches);
+      if (touches.length === 2) {
+        lastDistance = getTouchDistance(touches[0], touches[1]);
+        const center = getTouchCenter(touches);
+        lastTouchCenterX = center.x;
+        lastTouchCenterY = center.y;
+      }
+    }
+  }, { passive: false });
+
+  viewport.addEventListener("touchmove", e => {
+    if (e.touches.length < 1) return;
+    e.preventDefault();
+    touches = Array.from(e.touches);
+
+    if (touches.length === 2) {
+      // Pinch zoom
+      const currentDistance = getTouchDistance(touches[0], touches[1]);
+      const center = getTouchCenter(touches);
+      const zoomFactor = currentDistance / lastDistance;
+      const newScale = Math.max(MIN_ZOOM, Math.min(MAX_ZOOM, scale * zoomFactor));
+
+      // Zoom toward the touch center point
+      const rect = viewport.getBoundingClientRect();
+      const cx = (center.x - rect.left - tx) / scale;
+      const cy = (center.y - rect.top - ty) / scale;
+      scale = newScale;
+      tx = (center.x - rect.left) - cx * scale;
+      ty = (center.y - rect.top) - cy * scale;
+      applyTransform();
+
+      lastDistance = currentDistance;
+      lastTouchCenterX = center.x;
+      lastTouchCenterY = center.y;
+    } else if (touches.length === 1) {
+      // Single finger pan
+      if (!dragging) {
+        dragging = true;
+        lastX = touches[0].clientX;
+        lastY = touches[0].clientY;
+      }
+      tx += touches[0].clientX - lastX;
+      ty += touches[0].clientY - lastY;
+      lastX = touches[0].clientX;
+      lastY = touches[0].clientY;
+      applyTransform();
+    }
+  }, { passive: false });
+
+  viewport.addEventListener("touchend", e => {
+    if (e.touches.length === 0) {
+      touches = [];
+      lastDistance = 0;
+      dragging = false;
+    } else {
+      touches = Array.from(e.touches);
+      if (touches.length === 1) {
+        lastX = touches[0].clientX;
+        lastY = touches[0].clientY;
+      }
+    }
+  }, { passive: false });
+
   /* ── Mouse wheel zoom ── */
   viewport.addEventListener("wheel", e => {
     e.preventDefault();
