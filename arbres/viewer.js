@@ -9,6 +9,9 @@
 function initViewer(svgFile) {
   "use strict";
 
+  // Allow calling without argument; default to Hainaut.svg when no `file` URL param provided
+  if (!svgFile) svgFile = "Hainaut.svg";
+
   /* ── Configuration ── */
   const ZOOM_STEP = 1.3;
   const PAN_STEP  = 200;          // px per arrow-button click
@@ -50,6 +53,8 @@ function initViewer(svgFile) {
       svgEl.style.display = "block";
 
       zoomToFit();
+      // Setup the Photos toggle button (hide if no photo layers)
+      try { setupPhotosButton(); } catch (e) { console.warn('Photos button setup failed', e); }
     })
     .catch(err => {
       console.error("Failed to load SVG:", err);
@@ -79,6 +84,61 @@ function initViewer(svgFile) {
     tx = (vw - svgW * scale) / 2;
     ty = (vh - svgH * scale) / 2;
     applyTransform();
+  }
+
+  // Find elements that look like 'photo' layers and wire the Photos button.
+  function setupPhotosButton() {
+    const btn = document.getElementById("btn-photos");
+    if (!btn) return;
+    if (!svgEl) { btn.style.display = 'none'; return; }
+
+    const attrs = ["id", "class", "inkscape:label", "sodipodi:label", "label", "data-name", "aria-label", "title"];
+    const all = Array.from(svgEl.querySelectorAll("*"));
+    const photoEls = [];
+
+    for (const el of all) {
+      for (const a of attrs) {
+        const v = el.getAttribute(a);
+        if (v && /photo/i.test(v)) { photoEls.push(el); break; }
+      }
+    }
+
+    // Also check image hrefs
+    const images = Array.from(svgEl.querySelectorAll('image'));
+    for (const img of images) {
+      const href = img.getAttributeNS('http://www.w3.org/1999/xlink', 'href') || img.getAttribute('href') || '';
+      if (href && /photo/i.test(href)) photoEls.push(img);
+    }
+
+    // Unique elements
+    const unique = Array.from(new Set(photoEls));
+    if (unique.length === 0) {
+      btn.style.display = 'none';
+      return;
+    }
+
+    // Remember original inline style.display for each element (more reliable than attribute)
+    unique.forEach(el => { el.dataset._origDisplay = el.style.display || ''; });
+
+    let photosVisible = true; // Default: True
+    btn.setAttribute('aria-pressed', 'true');
+    console.debug(`Photos: found ${unique.length} candidate elements`);
+
+    btn.addEventListener('click', () => {
+      photosVisible = !photosVisible;
+      btn.setAttribute('aria-pressed', String(photosVisible));
+      console.debug('Photos toggle, now visible=', photosVisible);
+      unique.forEach(el => {
+        try {
+          if (!photosVisible) {
+            el.style.display = 'none';
+          } else {
+            // restore original inline display (may be empty)
+            el.style.display = el.dataset._origDisplay || '';
+          }
+        } catch (e) { /* ignore */ }
+      });
+    });
   }
 
   function zoomTo100() {

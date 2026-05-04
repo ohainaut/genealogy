@@ -1,9 +1,10 @@
-# Genealogie Hainaut Desguin etc
+# Genealogie Hainaut-Desguin & Denys-Leush
 
 
 ## Arbres
 
-- [Hainaut-Desguin](arbres/Hainaut.html)
+- [Hainaut-Desguin](arbres/viewer.html?file=Hainaut.svg)
+- [Denys-Leusch](arbres/viewer.html?file=Denys.svg)
   
 
 ## Lignées
@@ -15,5 +16,6 @@
 
 ## Photos historiques
 
-- Voir ce [site](https://sites.google.com/site/fetehainaut/photos)
+- [Hainaut](https://sites.google.com/site/fetehainaut/photos)
+- [Denys](https://sites.google.com/view/familledenys/)
   
