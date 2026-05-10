@@ -2,7 +2,7 @@
 
 # Mariage de Louys Haynaut & Marie Anne Delfosse 19 janvier 1680
 
-## Registre de mariage de la Paroisse Saint-Nicolas-en-Havré
+## Registre de mariage de la Paroisse Saint-Nicolas-en-Havré, Mons
 
 ###  Transcription
 **1680**

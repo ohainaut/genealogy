@@ -2,7 +2,7 @@
 
 # Mariage de Philippe HAYNAULT et Marie DU BOIS	11/02/1601
 
-## Registre de mariage de la Paroisse Saint-Nicolas-en-Havré
+## Registre de mariage de la Paroisse Saint-Nicolas-en-Havré, Mons
 
 ### Transcription
 **1601**
