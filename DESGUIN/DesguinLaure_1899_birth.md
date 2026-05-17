@@ -5,8 +5,8 @@ N° 235. — L’AN MIL HUIT CENT NONANTE-NEUF, le dix neuf Juin
 à onze heures du matin, après constatation, nous Léon Barbier
 Échevin Officier de l’État-Civil de la Ville de Mons, Province de Hainaut,
 Chevalier de l’Ordre de Léopold
-dressons l’acte de naissance de Laure Louise
-Camille Madeleine Desguin née avant-hier, à cinq heures et
+dressons l’acte de naissance de **Laure Louise
+Camille Madeleine Desguin** née avant-hier, à cinq heures et
 demie du matin, rue des Gades, fille légitime de Hyacinthe Louis
 Joseph Desguin âgé de quarante quatre ans, Avocat, et de Victorine
 Laure Gérard, agée de trente sept ans, domiciliés en cette ville.

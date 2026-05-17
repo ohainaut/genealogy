@@ -1,3 +1,7 @@
+[![IMG](Beck_Elisabeth_1848_death.jpg)](Beck_Elisabeth_1848_death.jpg)
+
+
+
 ## Extraits d'actes (1848)
     N° 6
     Naissance de

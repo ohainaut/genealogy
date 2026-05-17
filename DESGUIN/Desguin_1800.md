@@ -19,14 +19,14 @@
 | Anne-Josèphe Desguin [+](https://www.familysearch.org/en/tree/person/details/L58C-JD3) | | | 1866 |  |
 |    |    |    |    |    |
 | _Enfants de Louis & Rosalie_
-| **Desguin, Hadelin**  [+](https://www.familysearch.org/en/tree/person/details/L58C-N8V) | 1855 Gerpines |  1891 Laure Grard [+](https://www.familysearch.org/en/tree/person/details/L58C-NR5) | 1923 Mons | Avocat [[4](DesguinPierre_1896_birth.md)]
+| **Desguin, Hadelin**  [+](https://www.familysearch.org/en/tree/person/details/L58C-N8V) | 1855 Gerpines |  1891 Laure Grard [+](https://www.familysearch.org/en/tree/person/details/L58C-NR5) Testament et lettre 1932 [[9](GrardLaure_1932_testament.md)] | Testament (1897, [[7](DesguinHadelin_1897_testament.md)]); décès 1923 Mons | Avocat [[4](DesguinPierre_1896_birth.md)]
 | Camille Desguin [+](https://www.familysearch.org/en/tree/person/details/L58C-Z13) | 1856 Gerpines, Gosselies | Célibataire | 1885 Mons, rue des Capucins  [[2](DesguinCamille_1885_death.md)] |  Avocat, poète| |
 | Louise Desguin [+](https://www.familysearch.org/en/tree/person/details/L58C-6VK)  | 1861 | 1888 Adolphe Delcourt [+](https://www.familysearch.org/en/tree/person/details/L5X3-XLT)|  1929  Broussard (Lafayette), Louisiana | |
 |    |    |    |    |    |
 | _Enfants de Hadelin & Laure_
 | Madeleine  [+](https://www.familysearch.org/en/tree/person/details/L58C-DVH) | 1892 Mons [[3](DesguinMadeleine_1892_birth.md)] | 1925 Louis Delatour |  1975 | |
 | Pierre  [+](https://www.familysearch.org/en/tree/person/details/L58C-6NZ) | 1896 Mons, rue des Gades [[4](DesguinPierre_1896_birth.md)] | Célibataire | | |
-| **Desguin, Laure** [+](https://www.familysearch.org/en/tree/person/details/L58C-FRF)   | 1899 Mons| 1919 Raoul Hainaut | 1988 Montegnée | | |
+| **Desguin, Laure** [+](https://www.familysearch.org/en/tree/person/details/L58C-FRF)   | Née 1899 Mons| 1919 Raoul Hainaut | 1988 Montegnée | 1917 Lettre à Pierre [[8](DesguinLaure_1917_lettre.md)]| |
 
 
 ### Tableau consolidé des individus cités (Famille Desguin et alliés)
@@ -68,3 +68,6 @@
 4. Naissance de Pierre Desguin ([1896](DesguinPierre_1896_birth.md))
 5. Décès de Louis Desguin ([1897](DesguinLouis_1897_death.md))
 6. Naissance de Laure Desguin ([1899](DesguinLaure_1899_birth.md))
+7. Testament de Hadelin Desguin ([1897](DesguinHadelin_1897_testament.md))
+8. Lettres de Hadelin et Laure à Pierre Desguin ([1917](DesguinLaure_1917_lettre.md))
+9. Testament et lettre de Laure Grard ([1932](GrardLaure_1932_testament.md))

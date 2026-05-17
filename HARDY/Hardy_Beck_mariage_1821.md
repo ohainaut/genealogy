@@ -1,3 +1,16 @@
+
+Registre des mariages 1821-1843, p.121
+
+Spandowfisen St Nicolai, Spandau, Spandau, 
+
+Brandenburg, Deutschland //
+Kreis Osthavelland, Provinz Brandenburg, Preußen, Deutsches Reich
+
+Staatliche Archivverwaltung Der Deutschen Demokratischen Republik
+
+
+1831 Septembre
+
 # Johan Friedrich Hardy & Maria Elisabeth Beck
 
 ---
