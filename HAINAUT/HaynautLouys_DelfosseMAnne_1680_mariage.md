@@ -1,4 +1,4 @@
-[![img](HaynautLouys_DelfosseMAnne_mariage_1680.png)](HaynautLouys_DelfosseMAnne_mariage_1680.png)
+[![img](HaynautLouys_DelfosseMAnne_1680_mariage.jpg)](HaynautLouys_DelfosseMAnne_1680_mariage.jpg)
 
 # Mariage de Louys Haynaut & Marie Anne Delfosse 19 janvier 1680
 

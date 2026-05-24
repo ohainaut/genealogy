@@ -7,7 +7,7 @@ N° 235. — L’AN MIL HUIT CENT NONANTE-NEUF, le dix neuf Juin
 Chevalier de l’Ordre de Léopold
 dressons l’acte de naissance de **Laure Louise
 Camille Madeleine Desguin** née avant-hier, à cinq heures et
-demie du matin, rue des Gades, fille légitime de Hyacinthe Louis
+demie du matin, rue des Gades, fille légitime de Hadelin Louis
 Joseph Desguin âgé de quarante quatre ans, Avocat, et de Victorine
 Laure Gérard, agée de trente sept ans, domiciliés en cette ville.
 Sur la déclaration faite par le père.
@@ -23,7 +23,7 @@ les témoins.
 | Nom | Rôle dans l’acte | Occupation / Notes |
 | :--- | :--- | :--- |
 | **Laure Louise Camille Madeleine Desguin** | Enfant | Née rue des Gades. |
-| **Hyacinthe Louis Joseph Desguin** | Père | 44 ans, Avocat, domicilié à Mons. |
+| **Hadelin Louis Joseph Desguin** | Père | 44 ans, Avocat, domicilié à Mons. |
 | **Victorine Laure Gérard** | Mère | 37 ans, domiciliée à Mons. |
 | **Léon Barbier** | Officier de l'état civil | Échevin, Chevalier de l'Ordre de Léopold. |
 | **François Druez** | Témoin | 26 ans, Journaliste, domicilié à Mons. |

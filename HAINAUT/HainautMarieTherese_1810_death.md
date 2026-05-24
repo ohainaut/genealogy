@@ -1,4 +1,4 @@
-[![HainautMarieTherese_death_1810.jpg](HainautMarieTherese_death_1810.jpg)](HainautMarieTherese_death_1810.jpg)
+[![img](HainautMarieTherese_1810_death.jpg)](HainautMarieTherese_1810_death.jpg)
 
 ## Acte de décès : Marie Thérèse Joseph Hainaut (1810)
 

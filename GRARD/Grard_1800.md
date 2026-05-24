@@ -1,11 +1,11 @@
 
 
-### Tableau Consolidé de la Famille Grard / Gerard
+### Tableau Consolidé de la Famille Grard 
 
 | Nom | Rôle dans l'acte | Dates clés | Lieux | Profession et Notes | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Marie Thérèse GERARD** | Enfant | Née le 11/06/1803 (22 Prairial An XI) | Auvelais Comté | Née à 2h du matin. | [[1](GrardMTherese_1803.md)] |
-| **Jean Joseph GERARD (ou GRARD)** | Père | Né à Auvelais ; Décédé avant juin 1807 | Auvelais | Maçon ; Tailleur de pierres. | [[1](GrardMTherese_1803.md), [2](GrardPierreJ_HerchenratsMarieA_mariage_1807.md)]|
+| **Marie Thérèse GeRARD** | Enfant | Née le 11/06/1803 (22 Prairial An XI) | Auvelais Comté | Née à 2h du matin. | [[1](GrardMTherese_1803.md)] |
+| **Jean Joseph GeRARD (ou GRARD)** | Père | Né à Auvelais ; Décédé avant juin 1807 | Auvelais | Maçon ; Tailleur de pierres. | [[1](GrardMTherese_1803.md), [2](GrardPierreJ_HerchenratsMarieA_mariage_1807.md)]|
 | **Marie Thérèse BEURAUS** | Mère | Née à Auvelais | Auvelais | Présente et consentante au mariage de son fils en 1807. Ne sait pas écrire. | [[1](GrardMTherese_1803.md), [2](GrardPierreJ_HerchenratsMarieA_mariage_1807.md)]|
 | **Pierre Joseph GRARD** | Époux | Né le 27/05/1781 ; Marié le 22/06/1807 | Auvelais (naissance) ; Alost (mariage) | Tailleur de pierres. Fils de Jean Joseph. | [[2](GrardPierreJ_HerchenratsMarieA_mariage_1807.md)] |
 | **Marie Anne HERCHENRATH** | Épouse | Née le 26/06/1784 ; Mariée le 22/06/1807 | Alost | Sans profession. Fille de feu Pierre Joseph. | [[2](GrardPierreJ_HerchenratsMarieA_mariage_1807.md)] |
@@ -19,7 +19,7 @@
 | **Victorine Laure GÉRARD** | Mère | Née vers 1862 | Mons | Âgée de 34 ans en 1896 et 37 ans en 1899. Épouse de H. Desguin. | [[7](../DESGUIN/DesguinLaure_1899_birth.md), [6](../DESGUIN/DesguinPierre_1896_birth.md)] |
 | **Pierre Camille Louis Victor DESGUIN** | Enfant | Né le 30/06/1896 | Rue des Gades, Mons | Fils de Victorine Laure Gérard. | [[6](../DESGUIN/DesguinPierre_1896_birth.md)] |
 | **Laure Louise C. M. DESGUIN** | Enfant | Née le 17/06/1899 | Rue des Gades, Mons | Fille de Victorine Laure Gérard. | [[7](../DESGUIN/DesguinLaure_1899_birth.md)] |
-| **Hyacinthe Louis Joseph DESGUIN** | Père | Né vers 1855 | Rue des Gades, Mons | Avocat. Nommé aussi "Hadelin". | [[7](../DESGUIN/DesguinLaure_1899_birth.md), [6](../DESGUIN/DesguinPierre_1896_birth.md)] |
+| **Hadelin Louis Joseph DESGUIN** | Père | Né vers 1855 | Rue des Gades, Mons | Avocat.  | [[7](../DESGUIN/DesguinLaure_1899_birth.md), [6](../DESGUIN/DesguinPierre_1896_birth.md)] |
 
 
 ### Sources

@@ -10,9 +10,10 @@
 ## Lignées
 
 - [Lignée Hainaut](HAINAUT/Hainaut_1800.md)
-- [Lignée Hardy](HARDY/Hardy_1800.md)
-- [Lignée Desguin](DESGUIN/Desguin_1800.md)
-- [Lignée Grard](GRARD/Grard_1800.md)
+   - [Lignée Desguin](DESGUIN/Desguin_1800.md)
+     - [Lignée Grard](GRARD/Grard_1800.md)
+   - [Lignée Hardy](HARDY/Hardy_1800.md)
+   - [Lignée Mary](MARY/Mary_1800.md)
 
 ## Photos historiques
 

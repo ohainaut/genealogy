@@ -1,4 +1,4 @@
-[![HainautLouisBarthelemi_death_1845.jpg](HainautLouisBarthelemi_death_1845.jpg)](HainautLouisBarthelemi_death_1845.jpg)
+[![img.jpg](HainautLouisBarthelemi_1845_death.jpg)](HainautLouisBarthelemi_1845_death.jpg)
 
 ## Acte de décès : Louis Barthélemy Hainaut (1845)
 

@@ -19,7 +19,7 @@
 | Anne-Josèphe Desguin [+](https://www.familysearch.org/en/tree/person/details/L58C-JD3) | | | 1866 |  |
 |    |    |    |    |    |
 | _Enfants de Louis & Rosalie_
-| **Desguin, Hadelin**  [+](https://www.familysearch.org/en/tree/person/details/L58C-N8V) | 1855 Gerpines |  1891 Laure Grard [+](https://www.familysearch.org/en/tree/person/details/L58C-NR5) Testament et lettre 1932 [[9](GrardLaure_1932_testament.md)] | Testament (1897, [[7](DesguinHadelin_1897_testament.md)]); décès 1923 Mons | Avocat [[4](DesguinPierre_1896_birth.md)]
+| **Desguin, Hadelin**  [+](https://www.familysearch.org/en/tree/person/details/L58C-N8V) | 1855 Gerpines |  1891 Laure Grard [+](https://www.familysearch.org/en/tree/person/details/L58C-NR5) <br>Testament et lettre 1932 [[9](GrardLaure_1932_testament.md)] <br>**[Lignée GRARD](../GRARD/Grard_1800.md)** | Testament (1897, [[7](DesguinHadelin_1897_testament.md)]); décès 1923 Mons | Avocat [[4](DesguinPierre_1896_birth.md)]
 | Camille Desguin [+](https://www.familysearch.org/en/tree/person/details/L58C-Z13) | 1856 Gerpines, Gosselies | Célibataire | 1885 Mons, rue des Capucins  [[2](DesguinCamille_1885_death.md)] |  Avocat, poète| |
 | Louise Desguin [+](https://www.familysearch.org/en/tree/person/details/L58C-6VK)  | 1861 | 1888 Adolphe Delcourt [+](https://www.familysearch.org/en/tree/person/details/L5X3-XLT)|  1929  Broussard (Lafayette), Louisiana | |
 |    |    |    |    |    |
@@ -42,7 +42,7 @@
 | **Desguin, François Joseph** | Père du futur époux | † avant 1880 | — | Capitaine pensionné (décédé). | [1](DesguinLeon_HauzeurBerthe_1880_mariage.md) |
 | **Desguin, Hadelin Louis Joseph** | Père / Déclarant | 1892, 1896, 1899 | Mons (rue des Gades ; Bd de l'Industrie) | Avocat. Époux de Victorine Gérard. | [6](DesguinLaure_1899_birth.md), [4](DesguinPierre_1896_birth.md), [3](DesguinMadeleine_1892_birth.md) |
 | **Desguin, Henri Victor Joseph** | Futur époux | 1880 | Anvers | Médecin de bataillon de 2ème classe. | [1](DesguinLeon_HauzeurBerthe_1880_mariage.md) |
-| **Desguin, Laure Louise C. M.** | Enfant (Née) | * 17/06/1899 | Mons (rue des Gades) | Fille de Hyacinthe (Hadelin) Desguin. | [6](DesguinLaure_1899_birth.md) |
+| **Desguin, Laure Louise C. M.** | Enfant (Née) | * 17/06/1899 | Mons (rue des Gades) | Fille de Hadelin Desguin. | [6](DesguinLaure_1899_birth.md) |
 | **Desguin, Louis Joseph** | Défunt / Père | † 26/08/1897 | Mons (rue des Capucins) ; Blégnies | Directeur de Journal, 62 ans. Époux de R. Henseval. | [2](DesguinCamille_1885_death.md), [5](DesguinLouis_1897_death.md) |
 | **Desguin, Pierre Camille L. V.** | Enfant (Né) | * 30/06/1896 | Mons (rue des Gades) | Fils de Hadelin Desguin. | [4](DesguinPierre_1896_birth.md) |
 | **Desguin, Pierre** | Grand-père (mention) | — | — | Cité comme père de Louis Joseph Desguin. | [5](DesguinLouis_1897_death.md) |
